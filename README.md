@@ -60,9 +60,9 @@ python app.py  # The files are located in the demo folder.
 ```
 - Demonstration of Results
 <p align="center">
-  <img src="imgs/demo/noClick.png" alt="auto" width="300"/>
-  <img src="imgs/demo/click1.png" alt="结果示例2" width="300"/>
-  <img src="imgs/demo/click2.png" alt="结果示例3" width="300"/>
+  <img src="imgs/demo/noClick.png" alt="auto" width="200"/>
+  <img src="imgs/demo/click1.png" alt="结果示例2" width="200"/>
+  <img src="imgs/demo/click2.png" alt="结果示例3" width="200"/>
 </p>
 
 ## Datasets
