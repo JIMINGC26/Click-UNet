@@ -13,7 +13,7 @@ from models.Unet_id import UNet2D_Test
 # from models.UNet_mtl import UNet2D_Test
 from matplotlib import pyplot as plt
 
-from loss import DiceLoss
+from utils.loss import DiceLoss
 import timeit
 from torchvision import transforms
 from dataloaders import custom_transforms as tr
